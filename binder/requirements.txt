@@ -1,0 +1,8 @@
+scikit_hep_testdata==0.4.45
+vector==1.4.1
+sympy==1.12.1
+uproot==5.3.1
+# Ensure Jupyter notebook
+# SSL JupyterHub has a bug with notebook v7.0
+notebook~=6.0
+jupyterlab~=4.0
