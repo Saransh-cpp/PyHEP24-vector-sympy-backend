@@ -35,7 +35,7 @@ There are two ways to follow along (or run this notebook after the talk) -
 2. On cloud (recommended)
 
     - Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/HEAD?urlpath=lab/tree/talk.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saransh-cpp/PyHEP24-vector-sympy-backend/HEAD?urlpath=lab/tree/talk.ipynb)
 
 We will be directly importing `vector`, `sympy`, and `scikit-hep-testdata` in this tutorial. Hence, a user must install these packages if this notebook is being run locally.
 
