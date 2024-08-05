@@ -2,6 +2,7 @@
 
 [![Talk](https://img.shields.io/badge/PyHEP24-notebook_talk-blue?logo=github&logoColor=white&color=blue)](https://indico.cern.ch/event/1150631/contributions/5014393/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saransh-cpp/PyHEP24-vector-sympy-backend/HEAD?urlpath=lab/tree/talk.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12655971.svg)](https://doi.org/10.5281/zenodo.12655971)
 
 Vector is a Python library for 2D, 3D, and Lorentz vectors, especially arrays of vectors, to solve common physics problems in a NumPy-like way. Vector currently supports creating pure Python Object, NumPy arrays, and Awkward arrays of vectors. The Object and Awkward backends are implemented in Numba to leverage JIT-compiled vector calculations. Furthermore, vector also supports JAX and Dask operations on Awkward arrays of vectors.
 
