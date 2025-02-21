@@ -44,7 +44,7 @@ We will be directly importing `vector`, `sympy`, and `scikit-hep-testdata` in th
 
 - If something is not working the way it should, or if you want to request a new feature, create a [new issue](https://github.com/scikit-hep/vector/issues) on GitHub.
 - To discuss something related to vector, use the [discussions](https://github.com/scikit-hep/vector/discussions/) tab on GitHub or vector’s gitter ([Scikit-HEP/vector](https://gitter.im/Scikit-HEP/vector)) chat room.
-- Have a look at vector's [changelog](https://vector.readthedocs.io/en/latest/#changes-in-vector-s-api) to stay up-to-date!
+- Have a look at vector's [releases](https://github.com/scikit-hep/vector/releases) to stay up-to-date!
 
 ## Cite vector
 
